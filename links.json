@@ -2,14 +2,14 @@
     {
         "title": "ImResizer",
         "url": "https://saifulfayaz.github.io/r/",
-        "description": "Where the world builds software",
+        "description": "Change Image Dimension and Size",
         "category": "Tools",
         "icon": "fas fa-edit"
     },
     {
         "title": "PDF",
         "url": "https://saifulfayaz.github.io/pdf/",
-        "description": "Resources for developers, by developers",
+        "description": "A Powerful Tool for creating and editing pdf files",
         "category": "Tools",
         "icon": "fas fa-file-pdf"
     },
