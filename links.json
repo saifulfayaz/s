@@ -1,0 +1,30 @@
+[
+    {
+        "title": "GitHub",
+        "url": "https://github.com",
+        "description": "Where the world builds software",
+        "category": "Development",
+        "icon": "fab fa-github"
+    },
+    {
+        "title": "MDN Web Docs",
+        "url": "https://developer.mozilla.org",
+        "description": "Resources for developers, by developers",
+        "category": "Development",
+        "icon": "fas fa-file-code"
+    },
+    {
+        "title": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "description": "Q&A for programmers",
+        "category": "Community",
+        "icon": "fab fa-stack-overflow"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://youtube.com",
+        "description": "Video sharing platform",
+        "category": "Entertainment",
+        "icon": "fab fa-youtube"
+    }
+]
