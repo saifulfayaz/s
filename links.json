@@ -1,17 +1,17 @@
 [
     {
-        "title": "GitHub",
-        "url": "https://github.com",
+        "title": "ImResizer",
+        "url": "https://saifulfayaz.github.io/r/",
         "description": "Where the world builds software",
-        "category": "Development",
-        "icon": "fab fa-github"
+        "category": "Tools",
+        "icon": "fas fa-edit"
     },
     {
-        "title": "MDN Web Docs",
-        "url": "https://developer.mozilla.org",
+        "title": "PDF",
+        "url": "https://saifulfayaz.github.io/pdf/",
         "description": "Resources for developers, by developers",
-        "category": "Development",
-        "icon": "fas fa-file-code"
+        "category": "Tools",
+        "icon": "fas fa-file-pdf"
     },
     {
         "title": "Stack Overflow",
