@@ -1,5 +1,12 @@
 [
     {
+        "title": "Image Enhance",
+        "url": "https://saifulfayaz.github.io/enhance/",
+        "description": "Change any colour on image to black or white",
+        "category": "Tools",
+        "icon": "fas fa-fill-drip"
+    },
+    {
         "title": "ImResizer",
         "url": "https://saifulfayaz.github.io/r/",
         "description": "Change Image Dimension and Size",
@@ -20,4 +27,5 @@
         "category": "Tools",
         "icon": "fas fa-stamp"
     }
+    
 ]
