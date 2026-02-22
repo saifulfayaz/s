@@ -21,6 +21,14 @@
         "icon": "fas fa-file-pdf"
     },
     {
+        "title": "Sig BG Remover",
+        "url": "https://saifulfayaz.github.io/sigbgremover/",
+        "description": "Tool for Removing Signature Background and changing colour to black",
+        "category": "Tools",
+        "icon": "fas fa-magic"
+    },
+
+    {
         "title": "Photo Stamper",
         "url": "https://saifulfayaz.github.io/nameanddate/",
         "description": "Add Name and Date to Images",
